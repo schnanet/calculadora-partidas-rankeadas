@@ -1,0 +1,1 @@
+Uma calculadora que tem uma função que recebe como parâmetro a quantidade de vitórias e derrotas de um jogador, depois disso retorna o resultado para uma variável. O saldo de Rankeadas é feito através do calculo (vitórias - derrotas)
